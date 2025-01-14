@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Coutinho
+# ✔ Olá! Eu sou João Coutinho ♻
 
 ## Sobre mim
 💻 Desenvolvedor Front-End e Back-End | 🚀 Apaixonado por tecnologia e aprendizado constante.
