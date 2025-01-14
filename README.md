@@ -8,7 +8,7 @@
 - 🎯 Objetivo: Contribuir para a comunidade tech e criar soluções impactantes.
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/joão-coutinho-🇧🇷-6020201aa/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joão-coutinho-🇧🇷-6020201aa)  
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox)](https://seuportfolio.com)
 
 ## 💻 Habilidades
