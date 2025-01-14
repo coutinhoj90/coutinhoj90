@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou João Coutinho
 
-<!--
-**coutinhoj90/coutinhoj90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+💻 Desenvolvedor Front-End e Back-End | 🚀 Apaixonado por tecnologia e aprendizado constante.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente aprimorando minhas habilidades em **React** e **Python**.
+- 💼 Interessado em trabalhar com projetos desafiadores e colaborativos.
+- 🎯 Objetivo: Contribuir para a comunidade tech e criar soluções impactantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario/)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox)](https://seuportfolio.com)
+
+## 💻 Habilidades
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+
+## 📊 Estatísticas
+![João Coutinho GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocoutinho&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocoutinho&layout=compact&theme=radical)
+
